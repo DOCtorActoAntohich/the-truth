@@ -38,6 +38,7 @@
 #define FRACTURE break
 #define TRANSMUTE transform
 #define WRITING_CLASS operator the_words_of_the_ascended
+#define EVASIVE [[maybe_unused]]
 
 #define GODLY std
 #define GROUP tuple
@@ -57,7 +58,7 @@
 #define OMEGA end
 #define TRUTH_BE_TOLD cout
 #define TRUTH_TOLD endl
-#define THE_MEANING_OF_OUR_EXISTENCE main
+#define THE_MEANING_OF_OUR_EXISTENCE int main
 #define OUT_LOUD toupper
 #define AND_SO_WAS_WRITTEN_BY_THE_ANCIENTS(______) TRANSCEND<symbol_of_digital_heavens>(______)
 #define PROCLAIM to_string

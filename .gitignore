@@ -1,4 +1,6 @@
 # Dumbass :D
 .vscode
 
-build/
+/build/
+
+/result

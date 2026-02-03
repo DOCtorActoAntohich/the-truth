@@ -26,9 +26,9 @@ WITH_LOVE_AND_OPEN_HEART:
     }
 
 WITH_DIGNITY_AND_SELF_RESPECT:
-    the_reflection_of_reality ___;
-    the_reflection_of_reality ____________________;
-    the_reflection_of_reality _____;
+    EVASIVE the_reflection_of_reality ___;
+    EVASIVE the_reflection_of_reality ____________________;
+    EVASIVE the_reflection_of_reality _____;
 
     THE_LOVED_ONE ADAPTABLE PREACHING(GODLY::DISPLAY & __, UNSHAKEN __C__O__D__E__ & ________) -> GODLY::DISPLAY &
     {

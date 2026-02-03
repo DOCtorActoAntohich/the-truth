@@ -41,9 +41,9 @@ WITH_DIGNITY_AND_SELF_RESPECT:
         [](GODLY::DISPLAY &____) {
             SUBMIT[&](the_words_of_the_ascended _)
             {
-                SUBMIT[&](the_words_of_the_ascended __)
+                SUBMIT[&, _](the_words_of_the_ascended __)
                 {
-                    SUBMIT[&](the_words_of_the_ascended ___)
+                    SUBMIT[&, _, __](the_words_of_the_ascended ___)
                     {
                         ____ << _ + __ + ___ << __l__o__c__u__s__;
                     };
